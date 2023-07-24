@@ -1,4 +1,4 @@
-> https://duthanhduoc.com/blog/tao-du-an-react-vite-typescript-eslint
+> [https://duthanhduoc.com/blog/tao-du-an-react-vite-typescript-eslint](https://duthanhduoc.com/blog/tao-du-an-react-webpack-typescript-babel-eslint)
 
 # .babelrc: Mục đích là chứa các preset babel chuyển đổi code sang js phiên bản es5
 
