@@ -10,7 +10,6 @@ const App: FC = () => {
       {/* <img src={reactlogo} alt='React Logo' width={100} height={100} /> */}
       <h1>{'Nguyễn Vạn Phi'}</h1>
       <h2>Bài viết được viết tại blog</h2>
-
       <Home />
     </div>
   )
